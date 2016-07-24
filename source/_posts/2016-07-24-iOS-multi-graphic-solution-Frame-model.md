@@ -5,7 +5,7 @@ tags:
   - 图文混排
   - Frame模型
 date: 2016-07-24 13:26:17
-categories: iOS项目实践
+categories: iOS Project Practice
 ---
 iOS开发中会遇到页面展示多图文的问题，尤其是新闻等图文混排，而且是图片不知道到宽高的情况。
 

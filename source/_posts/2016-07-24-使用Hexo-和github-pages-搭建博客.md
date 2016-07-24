@@ -9,7 +9,7 @@ tags: [blogs, hexo]
 ## 1. 简介
 
 hexo是一个基于node.js的静态博客程序，可以方便的生成静态网页（纯html）支持多个平台（Windows/MAC/Linux），风格优雅，更适合写技术博客，与hexo类似的博客程序还有jekyll，jekyll被github着力推荐官方就提供了jekyll教程，但是jekyll是基于ruby写的，并且关于代码高亮没找到比较好的方案，就选择了用hexo
-转自 [bomo大神的博客](http://blog.bomobox.org/2016-04-18/hexo-for-blog/)
+
 <!--more-->
 
 ## 2. 配置环境
@@ -236,3 +236,6 @@ Plugins:
 
 ## 12. 参考链接
 > [https://hexo.io](https://hexo.io)
+
+
+转自 [bomo大神的博客](http://blog.bomobox.org/2016-04-18/hexo-for-blog/)
