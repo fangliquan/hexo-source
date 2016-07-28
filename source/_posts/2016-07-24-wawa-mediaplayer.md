@@ -5,9 +5,9 @@ tags:
 categories: iOS Project Practice
 date: 2016-07-24 23:30:11
 ---
-目前公司项目 [娃娃](http://www.wawachina.cn/app) 中播放小视频的播放器控件抽取出来，分享一下。
-WaWaVideoPlayer是一款轻量级视频播放器组件,利用原生MPMoviePlayerController参考kr-video-player编写的一款
-实现播放视频控件。是为了解决微视频播放而开发的一款播放器。
+公司项目 [娃娃](http://www.wawachina.cn/app) 中播放小视频的播放器控件抽取出来，分享一下。
+WaWaVideoPlayer是一款轻量级视频播放器组件,利用原生MPMoviePlayerController参考kr-video-player编写的一款视频控件。解决项目中微视频播放问题。
+
 <!--more -->
 ## WaWaVideoPlayer使用说明
 
@@ -24,7 +24,7 @@ WaWaVideoPlayer是一款轻量级视频播放器组件,利用原生MPMoviePlayer
   [self presentViewController:rootVedioVc animated:NO completion:nil];
 ```
 
-### 下载视频方法
+### 下载视频核心方法
   播放器使用 `AFNetworking` 进行视频文件的下载，用`MBProgressHD`实现了下载进度
 
 ```objc
@@ -96,5 +96,4 @@ WaWaVideoPlayer是一款轻量级视频播放器组件,利用原生MPMoviePlayer
 
 ```
 ### 更多具体实现请下载工程实例
-
-     WaWaVideoPlayer [下载](https://github.com/fangliquan/iOS-Technology-development)
+[源码下载](https://github.com/fangliquan/iOS-Technology-development)

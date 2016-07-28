@@ -9,7 +9,7 @@ tags: swift
 一直没有时间好好看一下swift，最近复习了一遍语法，这里记录swift学习过程中遇到的一些问题和要点，和Object-C的一些相关特性这里也不做介绍，只记录swift特有的一些特性
 
 swift借鉴了很多语言的语法，特别是脚本语言，在swift里，可以看到python语言的一些影子，很多地方是借鉴了python的一些用法
-转自 [bomo大神的博客](http://blog.bomobox.org/2016-06-28/swift-start/)
+
 <!-- more -->
 
 
@@ -1634,3 +1634,6 @@ let aa = 2 ^ (2 ^ (2 ^ 2))
 ## 十六、参考链接
 * [运算符结合性](https://en.wikipedia.org/wiki/Operator_associativity#Right-associativity_of_assignment_operators)
 * [Swift高级运算符](https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/AdvancedOperators.html)
+
+
+转自 [bomo大神的博客](http://blog.bomobox.org/2016-06-28/swift-start/)
