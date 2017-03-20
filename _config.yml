@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: leo的开发随笔
-subtitle: 记录生活工作点滴
-description: 懒人
+title: microleo的个人博客
+subtitle: 工作学习中的学习笔记及技术积累
+description: iOS,Windows开发者
 author: microleo
 email: fangliquan@outlook.com
 language: zh-Hans
@@ -64,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Next
+theme: Muse
 #apollo
 #landscape-plus
 #alberta
